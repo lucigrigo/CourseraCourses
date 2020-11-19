@@ -1,4 +1,4 @@
-### Courses taken:\
+### Courses taken:
  
 - DeepLearning.AI Tensorflow Developer Specialization\
   *4 courses*\
